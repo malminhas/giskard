@@ -9,6 +9,8 @@
 #
 # Installation:
 # -------------
+# Ensure that OPENAI_API_KEY and ANTHROPIC_API_KEY are set up as environment variables with valid keys.
+# Then install the Python requirements:
 # pip install -r requirements.txt
 #
 # Implementation:
